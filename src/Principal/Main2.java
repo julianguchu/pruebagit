@@ -11,7 +11,9 @@ import ClasesAdicionales.Financer;
 public class Main2 {
 
 	public static void main(String[] args) {
-	List<Empleados> listaEmpleados=  new ArrayList<>();
+		
+		
+	List<Empleados> listaEmpleados=  new ArrayList<>(); //colocandole algo dicional
 
 	listaEmpleados.add(new DBA("JUAN", "123123123", 70));
 	listaEmpleados.add(new DBA("lucas", "12569845", 10));
